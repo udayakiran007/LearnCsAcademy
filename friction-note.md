@@ -1,6 +1,6 @@
 workflow
 Course Registration:
-User selects a course and pays the registration fee in native tokens (e.g., ETH, MATIC).
+User selects a course and pays the registration fee in native tokens (e.g., ETH, MATIC,CELO).
 Registration fee is automatically staked in the Staking Contract.
 User gains access to course materials and assigned tasks.
 
