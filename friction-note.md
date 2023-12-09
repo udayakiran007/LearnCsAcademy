@@ -22,3 +22,9 @@ A portion (e.g., 30%) is reserved for platform maintenance and development.
 Redemption:
 User can redeem their earned rewards from the Staking Contract.
 Rewards are transferred to the user's designated wallet.
+
+
+
+work 8:12:2023 - 9:12:2023 till 4am working from an grocery store application boilerplate to an course purchasing website with cms and connecting weekend quiz with cms 
+
+developing quiz 9:12 2023 from 9:20 question cms ...
