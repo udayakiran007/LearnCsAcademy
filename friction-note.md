@@ -6,8 +6,8 @@ User gains access to course materials and assigned tasks.
 
 
 Task Completion:
-User completes all required tasks for the course.
-Task Management System verifies and records task completion.
+User completes all required tasks for the course and gets the redeem code.
+Task Management System verifies the redeem code and records task completion widthdrawl.
 
 
 Reward Distribution:
@@ -15,13 +15,15 @@ Upon confirmed task completion, the Staking Contract automatically redeems the s
 
 
 Redeemed funds are distributed as follows:
+```
 A portion (e.g., 50%) is returned to the user as a reward.
-A portion (e.g., 20%) is distributed to the course creator as compensation.
-A portion (e.g., 30%) is reserved for platform maintenance and development.
+A portion (e.g., 45%) is distributed to the course creator as compensation.
+A portion (e.g., 5%) is reserved for platform maintenance and development.
+```
 
 Redemption:
 User can redeem their earned rewards from the Staking Contract.
-Rewards are transferred to the user's designated wallet.
+Rewards are transferred to the user's designated wallet once the gives their unique redeem code and wallet address.
 
 
 
