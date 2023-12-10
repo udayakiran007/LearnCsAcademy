@@ -29,7 +29,10 @@ run branch b1 ,main ,finalhost
  <p align="center">and amount which can be redeemed once the complete  the course to avoid procastination
 </p>
 
+<p align="center">
  <img width="600px" src="https://github.com/udayakiran007/LearnCsAcademy/assets/153317010/9d1ae979-e138-4616-abdd-73e716e9265d" align="center" alt="GitHub Readme Stats" />
+
+ </p>
 </br>
 </br><p align="center">
  <h2 align="center">CLICK THIS</h2>
