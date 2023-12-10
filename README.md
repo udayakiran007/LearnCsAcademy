@@ -20,6 +20,16 @@
 # RUN
 `yarn dev`
 
+# credentials
+`admin`
+test@gmail.com
+
+qwerty123
+
+`user`
+test2@gmail.com
+
+qwerty123
 
 run branch b1 ,main ,finalhost
 
