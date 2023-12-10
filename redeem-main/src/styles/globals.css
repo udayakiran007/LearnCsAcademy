@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input:focus,
+textarea,
+select {
+  @apply outline-redeem-primary;
+}
+
+input[type="checkbox"]:checked {
+  @apply accent-redeem-primary;
+}
+
+input[type="number"],
+input[type="text"],
+textarea,
+select {
+  @apply border rounded border-gray-300;
+}
+
+button {
+  @apply w-full px-4 py-2 rounded-md bg-redeem-primary text-gray-900;
+}
+
+button:disabled {
+  @apply opacity-50 cursor-not-allowed;
+}
