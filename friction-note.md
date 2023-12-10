@@ -29,4 +29,9 @@ work 8:12:2023 - 9:12:2023 till 4am working from an grocery store application bo
 
 developing quiz 9:12 2023 from 9:20 question cms ...
 
-9:12 2023 found an interesting boilerplate called CEEz for course app now gone ah find an easy way to generate an redeem code for each weekend quiz task for further
+9:12 2023  from 4pm found an interesting boilerplate called CEEz for course app now gone ah find an easy way to generate an redeem code for each weekend quiz task for further
+
+10:12:2023 from 6am  uploading the cashout/redeem part
+
+10:12:2023 From 6:30am filling the form and making demo video in loom and finalizing logo and short topic
+
