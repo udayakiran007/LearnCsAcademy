@@ -25,11 +25,11 @@ run branch b1 ,main ,finalhost
 
 <p align="center">
  <img width="600px" src="https://github.com/udayakiran007/LearnCsAcademy/assets/153317010/0f0193d1-8853-46d0-a26e-66364c47f313" align="center" alt="GitHub Readme Stats" />
- <img width="600px" src="https://github.com/udayakiran007/LearnCsAcademy/assets/153317010/9d1ae979-e138-4616-abdd-73e716e9265d" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">learnCsacademy3.0 is an learning app with weekly quiz where whom ever enrolls to the course must stake </h2>
  <p align="center">and amount which can be redeemed once the complete  the course to avoid procastination
 </p>
 
+ <img width="600px" src="https://github.com/udayakiran007/LearnCsAcademy/assets/153317010/9d1ae979-e138-4616-abdd-73e716e9265d" align="center" alt="GitHub Readme Stats" />
 </br>
 </br><p align="center">
  <h2 align="center">CLICK THIS</h2>
